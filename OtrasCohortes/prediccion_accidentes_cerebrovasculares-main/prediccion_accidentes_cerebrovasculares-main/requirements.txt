@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+imbalanced-learn
+scipy
+torch
+ipython>=8.0.0
+jupytext

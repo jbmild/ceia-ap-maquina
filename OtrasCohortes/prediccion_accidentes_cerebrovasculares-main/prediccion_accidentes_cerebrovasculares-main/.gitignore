@@ -1,0 +1,7 @@
+venv
+__pycache__
+sections/**
+numbered_sections/**
+*.ipynb_checkpoints
+.colab/
+.env
